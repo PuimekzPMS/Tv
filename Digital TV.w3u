@@ -1,0 +1,195 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"
+
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล", 3HD
+http://183.89.246.119:8010/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล", 3HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล", 3HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27137
+
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png" group-title="ดิจิตอล", 5HD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w1900283573.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png" group-title="ดิจิตอล", 5HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/ch5hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png" group-title="ดิจิตอล", 5HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27190
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOs6hQ.png" group-title="ดิจิตอล", 7HD
+http://183.89.246.119:8010/play/a00f/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOs6hQ.png" group-title="ดิจิตอล", 7HD
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOs6hQ.png" group-title="ดิจิตอล", 7HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27132
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsHYg.png" group-title="ดิจิตอล", MCOT HD
+http://183.89.246.119:8010/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsHYg.png" group-title="ดิจิตอล", MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsHYg.png" group-title="ดิจิตอล", MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27141
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsVRW.png" group-title="ดิจิตอล", NBT HD
+http://183.89.246.119:8010/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsVRW.png" group-title="ดิจิตอล", NBT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chnbt/index.m3u8 
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsVRW.png" group-title="ดิจิตอล", NBT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27189
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsvwy.png" group-title="ดิจิตอล", THAI TPBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsvwy.png" group-title="ดิจิตอล", THAI TPBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chthaipbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsvwy.png" group-title="ดิจิตอล", THAI TPBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27188
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2SA0.png" group-title="ดิจิตอล", ONE HD
+http://183.89.246.119:8010/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2SA0.png" group-title="ดิจิตอล", ONE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chonehd/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2SA0.png" group-title="ดิจิตอล", ONE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27140
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO271R.png" group-title="ดิจิตอล", THAIRATH TV
+http://183.89.246.119:8010/play/a00i/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO271R.png" group-title="ดิจิตอล", THAIRATH TV
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO271R.png" group-title="ดิจิตอล", THAIRATH TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27138
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png" group-title="ดิจิตอล", AMARIN TV
+http://183.89.246.119:8010/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png" group-title="ดิจิตอล", AMARIN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chamarin/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png" group-title="ดิจิตอล", AMARIN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27135
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2TWk.png" group-title="ดิจิตอล", PPTV
+http://183.89.246.119:8010/play/a00s/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2TWk.png" group-title="ดิจิตอล", PPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2TWk.png" group-title="ดิจิตอล", PPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27129
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2qW2.png" group-title="ดิจิตอล", WORKPOINT
+http://183.89.246.119:8010/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2qW2.png" group-title="ดิจิตอล", WORKPOINT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chworkpoint/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2qW2.png" group-title="ดิจิตอล", WORKPOINT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27159
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8obZR.jpg" group-title="ดิจิตอล", CH8
+http://183.89.246.119:8010/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8obZR.jpg" group-title="ดิจิตอล", CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=6614
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8obZR.jpg" group-title="ดิจิตอล", CH8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2QnW.png" group-title="ดิจิตอล", MONO 29
+https://dkl-o53d.cdn.akamaiz.com/serieslive/mono29/chunks.m3u8
+http://183.89.246.119:8010/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2QnW.png" group-title="ดิจิตอล", MONO 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chmono29/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2QnW.png" group-title="ดิจิตอล", MONO 29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27144
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" group-title="ดิจิตอล", VOICE TV
+#EXTVLCOPT:http-referrer=https://www.doofootball.com/
+https://www.doofootball.com/dootv/live/voicetv#main_dootv
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" group-title="ดิจิตอล", VOICE TV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w615640051.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ZAxE.jpg" group-title="ดิจิตอล", GMM25
+http://183.89.246.119:8010/play/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ZAxE.jpg" group-title="ดิจิตอล", GMM25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chgmm/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ZAxE.jpg" group-title="ดิจิตอล", GMM25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27153
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2Jdl.png" group-title="ดิจิตอล", NATION TV
+http://183.89.246.119:8010/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2Jdl.png" group-title="ดิจิตอล", NATION TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chnation/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2Jdl.png" group-title="ดิจิตอล", NATION TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27162
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO283u.png" group-title="ดิจิตอล", TNN16
+http://183.89.246.119:8010/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO283u.png" group-title="ดิจิตอล", TNN16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO283u.png" group-title="ดิจิตอล", TNN16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27179
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO26PR.png" group-title="ดิจิตอล", TRUE4U
+http://183.89.246.119:8010/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO26PR.png" group-title="ดิจิตอล", TRUE4U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/202205171329/chtrue4u/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO26PR.png" group-title="ดิจิตอล", TRUE4U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27156
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png" group-title="ดิจิตอล", JKN 18
+http://183.89.246.119:8010/play/a00l/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png" group-title="ดิจิตอล", JKN 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/LC24/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png" group-title="ดิจิตอล", JKN 18
+#EXTVLCOPT:http-referrer=https://tv.trueid.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9
+https://tv.trueid.net/embed/jkn18?autoplay=yes&nopageview=yes
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/12/23/jpnk3u.jpg" group-title="ดิจิตอล", TP TV
+http://183.89.246.119:8010/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/12/23/jpnk3u.jpg" group-title="ดิจิตอล", TP TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/tptv/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/12/23/jpnk3u.jpg" group-title="ดิจิตอล", TP TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://www.inwiptv.com/player_demo.php?channel=27186
+
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/866e5df87e28038644029317171a221a.png" group-title="ดิจิตอล", NEWS1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/866e5df87e28038644029317171a221a.png" group-title="ดิจิตอล", NEWS1
+https://server1.streamssl.com/stream/news1_hi.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/32c5ff58cf17d10974ce35833a4ef67f.png" group-title="ดิจิตอล", ALTV4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/32c5ff58cf17d10974ce35833a4ef67f.png" group-title="ดิจิตอล", ALTV4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/da7fe18b34092574913e8357193cd986.jpg" group-title="ดิจิตอล", TOP NEWS
+https://live.topnews.co.th/hls/topnews_a_1080.m3u8
+#EXTINF:-1 tvg-logo="https://www.img.in.th/images/da7fe18b34092574913e8357193cd986.jpg" group-title="ดิจิตอล", TOP NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36
+https://cdn6.goprimetime.info/feed/202306140918/chtopnews/index.m3u8
